@@ -1,7 +1,7 @@
 # Something-about-nothing
 just something to talk when bored/confused/happy/unhappy, just want to share ……
 
-2017.1.29：
+##2017.1.29：##
     新建的一个仓库，本意是当做日记一样随便写写，没有什么重点。
     其实更想做成一个个人博客，但没找到其他比较合适的办法，如此而已。
     话说自己的“GitHub草原”计划已经连续听了十三天了，当然算是今天这个“作假”就十四天了。
