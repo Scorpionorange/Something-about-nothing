@@ -1,7 +1,7 @@
 # Something-about-nothing
 just something to talk when bored/confused/happy/unhappy, just want to share ……
 
-###2017.1.29：###
+###2017.1.29：
 新建的一个仓库，本意是当做日记一样随便写写，没有什么重点。  
 其实更想做成一个个人博客，但没找到其他比较合适的办法，如此而已。  
 后续估计会断断续续的写，有写的兴趣的时候就写 ~ 当然如果找到个人博客的办法，这边估计会停掉吧 （笑）  
